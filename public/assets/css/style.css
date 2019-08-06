@@ -1,0 +1,64 @@
+html, body {
+    min-height: 100%;
+}
+
+body {
+    padding: 70px;
+    background-color: #15aa08;
+}
+
+#navbar{
+    border-color: rgb(23, 8, 66);
+    background-color: #f6f6ef;
+    border-style:solid;
+    border-bottom: 2px solid rgb(23, 8, 66);
+    color:black;
+}
+
+
+.btn, a.btn , #btn ,#apiBtn{
+    background-color:#15aa08;
+    border-color: rgb(23, 8, 66);
+    color:white;
+}
+
+.jumbotron {
+    margin:20px;
+    border-color: rgb(23, 8, 66);
+    background-color: #f6f6ef;
+    border-style:solid;
+    border-width: 2px;
+}
+
+#scrapeBtn {
+    text-align: right;
+    float:right;
+}
+
+.well {
+    background-color:#f6f6ef;
+    border-color: rgb(23, 8, 66);
+}
+.container{
+    background-color:#15aa08;
+}
+
+#socialLinks{
+    float:right;
+}
+
+#text{
+    background-color:#f6f6ef;
+}
+
+img{
+    width:50px;
+    height:50px;
+    float:left;
+}
+
+.navbar-brand{
+    font-weight: bold;
+}
+
+a:hover,a:visited,a:link ,#scrapeBtn ,a { color:#000; }
