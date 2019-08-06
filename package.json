@@ -8,6 +8,8 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "lodash": ">=4.17.13",
+    "handlebars": ">=4.0.14",
     "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.3",
